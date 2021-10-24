@@ -1,0 +1,91 @@
+[I 17:10:19.596 NotebookApp] The port 8888 is already in use, trying another port.
+[I 17:10:19.596 NotebookApp] The port 8889 is already in use, trying another port.
+[I 17:10:19.597 NotebookApp] The port 8890 is already in use, trying another port.
+[I 17:10:19.600 NotebookApp] Serving notebooks from local directory: /media/paolo/New Volume/Paolo/università/2osemestre/Matematichs-in-machine-learning/tesina/my_thesis
+[I 17:10:19.600 NotebookApp] Jupyter Notebook 6.1.4 is running at:
+[I 17:10:19.601 NotebookApp] http://localhost:8891/?token=6a70d41a86bcf7c9506acb7a5ddc7604142d3bb8e32725c6
+[I 17:10:19.601 NotebookApp]  or http://127.0.0.1:8891/?token=6a70d41a86bcf7c9506acb7a5ddc7604142d3bb8e32725c6
+[I 17:10:19.601 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 17:10:19.659 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/paolo/.local/share/jupyter/runtime/nbserver-146546-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8891/?token=6a70d41a86bcf7c9506acb7a5ddc7604142d3bb8e32725c6
+     or http://127.0.0.1:8891/?token=6a70d41a86bcf7c9506acb7a5ddc7604142d3bb8e32725c6
+[I 17:10:48.755 NotebookApp] Kernel started: 26fe9f24-1aee-4fbb-bb51-adca14d8a556, name: python3
+[W 17:10:50.511 NotebookApp] 404 GET /static/plotly.js?v=20210521171018 (127.0.0.1) 33.74ms referer=http://localhost:8891/notebooks/my_tesina.ipynb
+[I 17:10:52.639 NotebookApp] Starting buffering for 26fe9f24-1aee-4fbb-bb51-adca14d8a556:66b802be95644b2c802c2a178502dfe1
+[I 13:48:06.208 NotebookApp] The port 8888 is already in use, trying another port.
+[I 13:48:06.208 NotebookApp] The port 8889 is already in use, trying another port.
+[I 13:48:06.209 NotebookApp] Serving notebooks from local directory: /media/paolo/New Volume/Paolo/università/2osemestre/Matematichs-in-machine-learning/tesina/my_thesis
+[I 13:48:06.209 NotebookApp] Jupyter Notebook 6.1.4 is running at:
+[I 13:48:06.210 NotebookApp] http://localhost:8890/?token=24bf3ee8dd301b24f97b937ecdf539cbabc5da6a05a8f8ac
+[I 13:48:06.210 NotebookApp]  or http://127.0.0.1:8890/?token=24bf3ee8dd301b24f97b937ecdf539cbabc5da6a05a8f8ac
+[I 13:48:06.210 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 13:48:06.230 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/paolo/.local/share/jupyter/runtime/nbserver-187731-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8890/?token=24bf3ee8dd301b24f97b937ecdf539cbabc5da6a05a8f8ac
+     or http://127.0.0.1:8890/?token=24bf3ee8dd301b24f97b937ecdf539cbabc5da6a05a8f8ac
+[I 13:48:11.569 NotebookApp] 302 GET /notebooks/linear_vs_logistic_regression.jpg (127.0.0.1) 1.28ms
+[I 13:48:11.656 NotebookApp] 302 GET /notebooks/SVM_hard.png (127.0.0.1) 1.46ms
+[I 13:48:11.673 NotebookApp] 302 GET /notebooks/linear_svm.png (127.0.0.1) 1.38ms
+[I 13:48:11.745 NotebookApp] 302 GET /notebooks/PCA.png (127.0.0.1) 1.33ms
+[I 13:48:11.916 NotebookApp] Kernel started: 4980e928-ba8d-418c-84ba-135bd91c0165, name: python3
+[W 13:48:15.149 NotebookApp] 404 GET /static/plotly.js?v=20211024134806 (127.0.0.1) 8.95ms referer=http://localhost:8890/notebooks/my_tesina.ipynb
+[I 13:50:11.987 NotebookApp] Saving file at /my_tesina.ipynb
+[I 13:52:12.019 NotebookApp] Saving file at /my_tesina.ipynb
+[I 13:54:11.988 NotebookApp] Saving file at /my_tesina.ipynb
+[I 13:56:11.984 NotebookApp] Saving file at /my_tesina.ipynb
+[I 14:36:11.988 NotebookApp] Saving file at /my_tesina.ipynb
+[I 14:38:11.993 NotebookApp] Saving file at /my_tesina.ipynb
+[I 14:40:12.029 NotebookApp] Saving file at /my_tesina.ipynb
+[I 14:42:12.030 NotebookApp] Saving file at /my_tesina.ipynb
+[I 14:44:12.074 NotebookApp] Saving file at /my_tesina.ipynb
+[I 14:46:12.024 NotebookApp] Saving file at /my_tesina.ipynb
+[I 14:52:07.433 NotebookApp] Saving file at /my_tesina.ipynb
+[I 14:54:12.082 NotebookApp] Saving file at /my_tesina.ipynb
+[I 14:56:12.140 NotebookApp] Saving file at /my_tesina.ipynb
+[I 14:58:12.099 NotebookApp] Saving file at /my_tesina.ipynb
+[I 15:00:12.085 NotebookApp] Saving file at /my_tesina.ipynb
+[I 15:08:12.079 NotebookApp] Saving file at /my_tesina.ipynb
+[I 15:10:12.086 NotebookApp] Saving file at /my_tesina.ipynb
+[I 15:18:12.081 NotebookApp] Saving file at /my_tesina.ipynb
+[I 15:20:12.148 NotebookApp] Saving file at /my_tesina.ipynb
+[I 15:22:12.087 NotebookApp] Saving file at /my_tesina.ipynb
+[I 15:24:12.084 NotebookApp] Saving file at /my_tesina.ipynb
+[I 15:26:12.102 NotebookApp] Saving file at /my_tesina.ipynb
+[I 15:28:12.102 NotebookApp] Saving file at /my_tesina.ipynb
+[I 15:30:12.097 NotebookApp] Saving file at /my_tesina.ipynb
+[I 15:32:12.102 NotebookApp] Saving file at /my_tesina.ipynb
+[I 15:34:12.097 NotebookApp] Saving file at /my_tesina.ipynb
+[I 15:36:12.086 NotebookApp] Saving file at /my_tesina.ipynb
+[I 15:38:12.092 NotebookApp] Saving file at /my_tesina.ipynb
+[I 15:40:12.093 NotebookApp] Saving file at /my_tesina.ipynb
+[I 15:46:12.106 NotebookApp] Saving file at /my_tesina.ipynb
+[I 15:54:12.126 NotebookApp] Saving file at /my_tesina.ipynb
+[I 15:56:12.160 NotebookApp] Saving file at /my_tesina.ipynb
+[I 15:58:12.119 NotebookApp] Saving file at /my_tesina.ipynb
+[I 16:00:12.109 NotebookApp] Saving file at /my_tesina.ipynb
+[I 16:02:12.132 NotebookApp] Saving file at /my_tesina.ipynb
+[I 16:02:47.430 NotebookApp] Saving file at /my_tesina.ipynb
+[I 16:02:47.975 NotebookApp] Saving file at /my_tesina.ipynb
+[I 16:02:48.577 NotebookApp] Saving file at /my_tesina.ipynb
+[I 16:08:12.104 NotebookApp] Saving file at /my_tesina.ipynb
+[I 16:10:12.099 NotebookApp] Saving file at /my_tesina.ipynb
+[I 16:12:12.104 NotebookApp] Saving file at /my_tesina.ipynb
+[I 16:14:12.151 NotebookApp] Saving file at /my_tesina.ipynb
+[I 16:16:12.146 NotebookApp] Saving file at /my_tesina.ipynb
+[I 16:18:12.106 NotebookApp] Saving file at /my_tesina.ipynb
+[I 16:20:12.156 NotebookApp] Saving file at /my_tesina.ipynb
+[I 16:22:12.113 NotebookApp] Saving file at /my_tesina.ipynb
+[I 16:24:12.103 NotebookApp] Saving file at /my_tesina.ipynb
+[I 16:26:12.185 NotebookApp] Saving file at /my_tesina.ipynb
+[I 16:28:12.103 NotebookApp] Saving file at /my_tesina.ipynb
+[I 16:32:12.156 NotebookApp] Saving file at /my_tesina.ipynb
+[I 16:34:12.154 NotebookApp] Saving file at /my_tesina.ipynb
+[I 16:36:12.121 NotebookApp] Saving file at /my_tesina.ipynb
+[I 16:37:32.874 NotebookApp] Starting buffering for 4980e928-ba8d-418c-84ba-135bd91c0165:c663da9f7aeb45f18a185ef3901fb448
